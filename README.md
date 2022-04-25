@@ -15,6 +15,4 @@ The 3 files (_index.html, styles.css, app.js_) needed to run the page are all in
 The page can be used as a starting template for a dynamic landing page. The stylesheet is basic yet unique. The JavaScript code can be reused in other applications as most of the logic is written as functions.
 
 ## Author  
-The starter files were provided by **Udacity** as part of the Front End Web Development Nanodegree project. This includes the HTML file (first 3 sections), and most of the styling. The **JavaScript** functionality was added by me.  
- 
-_Written by: Omar Aly_
+The starter files were provided by **Udacity** as part of the Front End Web Development Nanodegree project. I added the NavBar, the last section, and the interactive functionality.

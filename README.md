@@ -9,7 +9,7 @@ Furthermore, the section that is being viewed is highlighted. The navigation bar
   
 ## Dependencies
 The page is built using HTML for the base content, CSS for styling the sections and the navigation bar, and JavaScript for the dynamic navigation functionality.  
-The 3 files (_index.html, styles.css, app.js_) needed to run the page are all included in the ZIP file.   
+The 3 files ```index.html```, ```styles.css,``` ```app.js``` needed to run the page are all included in this repo.
 
 ## Usage
 The page can be used as a starting template for a dynamic landing page. The stylesheet is basic yet unique. The JavaScript code can be reused in other applications as most of the logic is written as functions.
